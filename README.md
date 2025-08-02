@@ -121,7 +121,14 @@ npm run dev
 
 Visit \`http://localhost:3000\` to see the application.
 
+## 🤖 AI Tools Used
 
+This project was developed with assistance from several AI tools:
+
+### v0 by Vercel
+- **Component Generation**: Used v0 to generate initial UI components and layouts
+- **Code Structure**: Helped establish the project architecture and folder structure
+- **TypeScript Integration**: Assisted with type definitions and interfaces
 ### Benefits of AI-Assisted Development:
 - **Faster Prototyping**: Quickly generated component boilerplate
 - **Best Practices**: AI suggested modern React patterns and hooks usage
